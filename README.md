@@ -1,7 +1,7 @@
 # cloudpatterns
 Eine Sammlung von Architekturmustern und Lösungsstrategien im Kontext Cloud
 
-## Katalog der Architekturmustern
+## Katalog der Architekturmuster
 
 ### Valet Key (Dienerschlüssel)
 #### Problembeschreibung
